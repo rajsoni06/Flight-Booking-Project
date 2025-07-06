@@ -24,18 +24,6 @@ npm install
 npm start
 Open http://localhost:3000 to view it in your browser. The app will auto-reload on file changes.
 
-## 📂 Project Structure
-css
-Copy
-Edit
-src/
-├── components/
-│   └── FlightBooker.jsx
-├── App.js
-├── index.js
-├── index.css
-└── ...
-
 ## ✅ Booking Rules
 For One-Way, only departure date is required
 For Return, return date must be equal to or after the departure date
