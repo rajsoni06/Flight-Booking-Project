@@ -8,10 +8,9 @@ Live form validation for departure and return dates
 Disable booking if invalid input
 Simple, intuitive UI without external libraries
 Built using Create React App
-
-##🖼️ Screenshots
+--
 ![image](https://github.com/user-attachments/assets/5ab12c62-25e5-42f2-b93b-83fcbad02936)
-
+--
 ##🛠️ Getting Started
 1. Clone the repository
 git clone https://github.com/rajsoni06/Flight-Booking-Project.git
