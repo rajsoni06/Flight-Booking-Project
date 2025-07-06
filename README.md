@@ -9,7 +9,7 @@ Disable booking if invalid input
 Simple, intuitive UI without external libraries
 Built using Create React App
 --
-![image](https://github.com/user-attachments/assets/5ab12c62-25e5-42f2-b93b-83fcbad02936)
+![](https://github.com/user-attachments/assets/5ab12c62-25e5-42f2-b93b-83fcbad02936)
 --
 
 ## 🛠️ Getting Started
@@ -29,9 +29,9 @@ For One-Way, only departure date is required
 For Return, return date must be equal to or after the departure date
 Submit button is disabled unless the form is valid
 
-##📄 License
+## 📄 License
 This project is open-source and available under the MIT License.
 
-##🙌 Contributing
+## 🙌 Contributing
 Pull requests are welcome! If you'd like to contribute, please fork the repository and use a feature branch.
 Issues and suggestions are also appreciated.
