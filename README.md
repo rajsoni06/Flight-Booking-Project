@@ -11,7 +11,8 @@ Built using Create React App
 --
 ![image](https://github.com/user-attachments/assets/5ab12c62-25e5-42f2-b93b-83fcbad02936)
 --
-##🛠️ Getting Started
+
+## 🛠️ Getting Started
 1. Clone the repository
 git clone https://github.com/rajsoni06/Flight-Booking-Project.git
 cd Flight-Booking-Project
@@ -23,7 +24,7 @@ npm install
 npm start
 Open http://localhost:3000 to view it in your browser. The app will auto-reload on file changes.
 
-##📂 Project Structure
+## 📂 Project Structure
 css
 Copy
 Edit
@@ -35,7 +36,7 @@ src/
 ├── index.css
 └── ...
 
-##✅ Booking Rules
+## ✅ Booking Rules
 For One-Way, only departure date is required
 For Return, return date must be equal to or after the departure date
 Submit button is disabled unless the form is valid
